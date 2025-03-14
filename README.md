@@ -7,3 +7,6 @@
 
 ## Homework 2
 Нейросетевая классификация текстов (text_classification)
+
+## Homework 3
+Обучение языковой модели с помощью LSTM (и GRU) (language_modelling)
