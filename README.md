@@ -10,3 +10,6 @@
 
 ## Homework 3
 Обучение языковой модели с помощью LSTM (и GRU) (language_modelling)
+
+## Homework 4
+Классификации математических задач по темам (многоклассовая классификация) с помощью Transformer (Attention_and_transformers)
