@@ -13,3 +13,6 @@
 
 ## Homework 4
 Классификации математических задач по темам (многоклассовая классификация) с помощью Transformer (Attention_and_transformers)
+
+## Homework 5
+Туристический RAG
