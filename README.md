@@ -16,3 +16,6 @@
 
 ## Homework 5
 Туристический RAG (hf_rag)
+
+## Homework 6
+Решение соревнования на kaggle "You Are Bot!" (You_Are_Bot!)
